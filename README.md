@@ -22,3 +22,6 @@ Os aplicativos de IA gerativa são alimentados por LLMs (modelos de linguagem gr
 
 ## Referência
 Material da DIO - Microsoft Azure AI Fundamentals - Módulo 5
+
+# Laboratório Copilot e OpenAI
+- Foi executado o mesmo prompt nas duas tecnologias de IA generativa, arquivos input e o resultado das execuções estão armazenados nos arquivos output.
