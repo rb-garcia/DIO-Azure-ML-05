@@ -25,3 +25,4 @@ Material da DIO - Microsoft Azure AI Fundamentals - Módulo 5
 
 # Laboratório Copilot e OpenAI
 - O mesmo prompt foi executado em ambas tecnologias de IA generativa (arquivos input). O resultado das execuções foram armazenados nos respectivos arquivos output.
+- Ocorreu uma grande diferença com relação a explicação em cada tecnologia.
